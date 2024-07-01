@@ -78,6 +78,7 @@ contract Assessment {
         emit Withdraw(balance);
     }
 }
+```
 ## Frontend
 
 The frontend is built with React and interacts with the smart contract using ethers.js.
